@@ -38,10 +38,10 @@ $ npm start
 
 This example project also includes/implements the following:
 
-- sass-loader
-- babel-loader
+- [sass-loader](https://github.com/jtangelder/sass-loader)
+- [babel-loader](https://github.com/babel/babel-loader)
 - [monkey-hot-loader](https://github.com/jlongster/monkey-hot-loader) for hot-replacing regular javascript modules
-- extracting styles into a separate CSS file outside of the main bundle.js (only when building for production)
+- [extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin) for extracting styles into a separate CSS file outside of the main bundle.js (only when building for production)
 - [webpack-merge](https://github.com/survivejs/webpack-merge) for separate webpack configurations based on the `npm` command run
 
 To see `monkey-hot-loader` in action, edit top-level functions (`inc`, `dec`)
