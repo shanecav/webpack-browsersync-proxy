@@ -10,12 +10,12 @@ This example project is based largely on the [Browsersync - Webpack + Monkey Hot
 
 To try this example, follow these 5 easy steps:
 
-**Step 1**: Clone this entire repo
+**Step 1**: Clone this repo
 ```bash
 $ git clone https://github.com/shanecav/webpack-browsersync-proxy.git webpack-browsersync-proxy
 ```
 
-**Step 2**: Move into the directory containing this example
+**Step 2**: Move into the directory you cloned to
 ```bash
 $ cd webpack-browsersync-proxy
 ```
