@@ -27,7 +27,7 @@ $ npm install
 
 **Step 4**: Set up your external server to serve this app. Make sure it serves the `/public` directory.
 
-Go into /app.js and set the `LOCAL_HOST` variable (line 15) to whatever URL your external server is serving your app at.
+Go into /app.js and set the `LOCAL_HOST` variable (line 15) to whatever URL your external server is serving the app at.
 
 **Step 5**: Run the example
 ```bash
