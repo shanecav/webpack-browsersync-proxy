@@ -25,7 +25,7 @@ $ cd webpack-browsersync-proxy
 $ npm install
 ```
 
-**Step 4**: Set up your external server to serve your app however you'd like. Make sure it serves the `/public` directory.
+**Step 4**: Set up your external server to serve this app. Make sure it serves the `/public` directory.
 
 Go into /app.js and set the `LOCAL_HOST` variable (line 15) to whatever URL your external server is serving your app at.
 
