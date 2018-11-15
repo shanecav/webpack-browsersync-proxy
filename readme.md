@@ -1,4 +1,8 @@
-#Webpack + Browsersync + Proxy Example
+Note: This repo is old, and uses Webpack 1.x. Most of the stuff here probably isn't relevant any more.
+
+---
+
+# Webpack + Browsersync + Proxy Example
 
 This example project demonstrates using [Webpack](http://webpack.github.io/) and [Browsersync](http://www.browsersync.io/) with an app served by a separate server.
 
